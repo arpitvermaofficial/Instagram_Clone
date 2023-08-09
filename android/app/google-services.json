@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "165156382589",
+    "project_id": "storage-bd2ab",
+    "storage_bucket": "storage-bd2ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165156382589:android:49f5a5d6e8a3707d6ece14",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165156382589-v46gudep8e1spoai17fja2vvjhg2fub3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVu2vo7rhDF6x-F4-JI4dVW8Und6CP7s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165156382589-v46gudep8e1spoai17fja2vvjhg2fub3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165156382589-iorr0ib7s7qfq44bggk57njslums8scu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled7"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
